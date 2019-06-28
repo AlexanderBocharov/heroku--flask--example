@@ -1,1 +1,2 @@
-# heroku--flask--example
+# heroku-flask-example
+example flask app for heroku
